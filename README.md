@@ -32,7 +32,7 @@
 <img align="left" alt="mysql" width="26px" src="small/mysql-original-wordmark.svg"/>
 <img align="left" alt="wordpress" width="26px" src="small/wordpress-plain.svg"/>
 <img align="left" alt="atom" width="26px" src="small/atom-original.svg"/>
-<img align="left" alt="vscode" width="26px" src="small/html5-plain-wordmark.svg"/>
+<img align="left" alt="vscode" width="26px" src="small/vscode.png"/>
 
 
 <br />
