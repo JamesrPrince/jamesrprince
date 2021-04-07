@@ -17,10 +17,10 @@
 
 <br />
 
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 <img align="left" alt="html5" width="26px" src="/small/instagram.png"/>
 
----
+### Github Stats
 [![James Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesrprince&show_icons=true)](https://github.com/jamesrprince/github-readme-stats)
 ---
 
