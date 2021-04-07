@@ -42,6 +42,11 @@
 [![James Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesrprince&show_icons=true)](https://github.com/jamesrprince/github-readme-stats)
 ---
 <br />
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrprince&theme=tokyonight)
+
+<br />
 <!--
 **JamesrPrince/jamesrprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
