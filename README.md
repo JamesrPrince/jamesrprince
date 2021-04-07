@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [
-    <img align="left" alt="jamesrprince | LinkedIn" width="30px" src="../small/twitter.png" />
+    <img align="left" alt="jamesrprince | LinkedIn" width="30px" src="/small/twitter.png" />
 ]
 
 <!--
