@@ -8,9 +8,7 @@
 - ⚡  Fun fact: I love to draw!
 
 ### Connect with me:
-[
-    <img align="left" alt="jamesrprince | LinkedIn" width="30px" src="/small/twitter.png" />
-]
+[<a href="https://twitter.com/ChisengaPrince"><img align="left" alt="jamesrprince | LinkedIn" width="30px" src="/small/twitter.png"/></a>][twitter]
 
 <!--
 **JamesrPrince/jamesrprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
