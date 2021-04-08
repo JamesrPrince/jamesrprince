@@ -35,7 +35,6 @@
 <img align="left" alt="atom" width="26px" src="small/atom-original.svg"/>
 <img align="left" alt="vscode" width="26px" src="small/vscode.png"/>
 
-
 <br />
 
 ### Github Stats
@@ -53,7 +52,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
