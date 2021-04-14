@@ -1,6 +1,6 @@
 ### Hi there, I am Prince Machiko Chisenga - aka [James Prince] 👋
 
-## I'm a Developer, Information Technology Associate and Physics Teacher!
+## I'm a Developer and Information Technology Associate!
 - 🔭 I’m currently working on simplifying [IT infrastructures] for small businesses
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers and content creators
@@ -24,15 +24,11 @@
 <img align="left" alt="react" width="26px" src="small/react-original.svg"/>
 <img align="left" alt="bash" width="26px" src="small/bash-original.svg"/>
 <img align="left" alt="node.js" width="26px" src="small/nodejs-original.svg"/>
-<img align="left" alt="bootstrap" width="26px" src="small/bootstrap-plain-wordmark.svg"/>
 <img align="left" alt="sass" width="26px" src="small/sass-original.svg"/>
-<img align="left" alt="slack" width="26px" src="small/slack-original.svg"/>
 <img align="left" alt="git" width="26px" src="small/git-original.svg"/>
 <img align="left" alt="github" width="26px" src="small/github-original.svg"/>
-<img align="left" alt="php" width="26px" src="small/small/php-plain.svg"/>
 <img align="left" alt="mysql" width="26px" src="small/mysql-original-wordmark.svg"/>
 <img align="left" alt="wordpress" width="26px" src="small/wordpress-plain.svg"/>
-<img align="left" alt="atom" width="26px" src="small/atom-original.svg"/>
 <img align="left" alt="vscode" width="26px" src="small/vscode.png"/>
 
 <br />
