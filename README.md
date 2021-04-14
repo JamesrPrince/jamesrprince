@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on simplifying [IT infrastructures] for small businesses
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers and content creators
-- 🥅 2021 Goals: Build on Web Development Fundamentals learned in 2020!
+- 🥅 2021 Goals: Contribute more to open source projects.
 - ⚡  Fun fact: I love to draw!
 
 ### Connect with me:
