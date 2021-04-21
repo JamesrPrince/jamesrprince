@@ -1,11 +1,11 @@
 ### Hi there, I am Prince Machiko Chisenga - aka [James Prince] 👋
 
 ## I'm a Developer and Information Technology Associate!
-- 🔭 I’m currently working on simplifying [IT infrastructures] for small businesses
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m continuously building my skills to become the best developer I can be.
+- 🌱 I’m currently learning REACT and how to build interactive full-fleshed web apps! 
 - 👯 I’m looking to collaborate with other web developers and content creators
 - 🥅 2021 Goals: Contribute more to open source projects.
-- ⚡  Fun fact: I love to draw!
+- ⚡  Fun fact: I love design and photography.
 
 ### Connect with me:
 
@@ -21,9 +21,9 @@
 <img align="left" alt="html5" width="26px" src="small/html5-plain-wordmark.svg"/>
 <img align="left" alt="css3" width="26px" src="small/css3-plain-wordmark.svg"/>
 <img align="left" alt="javascript" width="26px" src="small/javascript-original.svg"/>
-<!-- <img align="left" alt="react" width="26px" src="small/react-original.svg"/> -->
+<img align="left" alt="react" width="26px" src="small/react-original.svg"/>
 <img align="left" alt="bash" width="26px" src="small/bash-original.svg"/>
-<!-- <img align="left" alt="node.js" width="26px" src="small/nodejs-original.svg"/> -->
+<img align="left" alt="node.js" width="26px" src="small/nodejs-original.svg"/>
 <img align="left" alt="sass" width="26px" src="small/sass-original.svg"/>
 <img align="left" alt="git" width="26px" src="small/git-original.svg"/>
 <img align="left" alt="github" width="26px" src="small/github-original.svg"/>
