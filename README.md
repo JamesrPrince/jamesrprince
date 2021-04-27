@@ -19,16 +19,16 @@
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="vscode" width="26px" src="small/vscode.png"/>
-<img align="left" alt="html5" width="26px" src="[small/html5-plain-wordmark.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)"/>
-<img align="left" alt="css3" width="26px" src="[small/css3-plain-wordmark.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)"/>
-<img align="left" alt="javascript" width="26px" src="[small/javascript-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)"/>
-<img align="left" alt="react" width="26px" src="[small/react-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)"/>
-<img align="left" alt="bash" width="26px" src="[small/bash-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png)"/>
-<img align="left" alt="node.js" width="26px" src="[small/nodejs-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)"/>
-<img align="left" alt="sass" width="26px" src="[small/sass-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png)"/>
-<img align="left" alt="git" width="26px" src="[small/git-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)"/>
+<img align="left" alt="html5" width="26px" src="small/html5-plain-wordmark.svg"/>
+<img align="left" alt="css3" width="26px" src="small/css3-plain-wordmark.svg"/>
+<img align="left" alt="javascript" width="26px" src="small/javascript-original.svg"/>
+<img align="left" alt="react" width="26px" src="small/react-original.svg"/>
+<img align="left" alt="bash" width="26px" src="small/bash-original.svg"/>
+<img align="left" alt="node.js" width="26px" src="small/nodejs-original.svg"/>
+<img align="left" alt="sass" width="26px" src="small/sass-original.svg"/>
+<img align="left" alt="git" width="26px" src="small/git-original.svg"/>
 <img align="left" alt="github" width="26px" src="small/github-original.svg"/>
-<img align="left" alt="mysql" width="26px" src="[small/mysql-original-wordmark.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)"/>
+<img align="left" alt="mysql" width="26px" src="small/mysql-original-wordmark.svg"/>
 
 <br />
 
