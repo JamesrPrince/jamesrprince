@@ -27,13 +27,13 @@
 <img align="left" alt="mysql" width="26px" src="small/mysql-original-wordmark.svg"/>
 
 ---
+<br>
 
-<!-- ### Spotify Now Playing 🎧
-<br> 
+### Spotify Now Playing 🎧 
 
 [![Spotify](novatorem-jamesrprince.vercel.app)](https://open.spotify.com/user/5xlhi2vwx5rq2obkb4wcanqff)
 
-<br> -->
+<br>
 
 ### Github Stats
 [![James Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesrprince&show_icons=true)](https://github.com/jamesrprince/github-readme-stats)
