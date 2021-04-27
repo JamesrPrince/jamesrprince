@@ -1,20 +1,22 @@
 ### Hi there 👋, I am Prince Machiko Chisenga - aka [James Prince]
+<br>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChisengaPrince?label=James%20Prince&logo=Twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
 
 ## I'm a Developer and Information Technology Associate!
-- 🔭 I’m continuously building my skills to become the best developer I can be.
-- 🌱 I’m currently learning REACT and how to build interactive full-fleshed web apps! 
-- 👯 I’m looking to collaborate with other web developers and content creators
-- 🥅 2021 Goals: Contribute more to open source projects.
-- ⚡  Fun fact: I love design and photography.
+- 🌱 I’m currently learning everything...JavaScript
+- 👯 I’m looking to collaborate on....JavaScript & React
+- 💭 Ask me about....Anything
+- 📫 How to reach me....<a href="https://twitter.com/ChisengaPrince" rel="noopener noreferrer" target="_blank"><img alt="jamesrprince | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg"/></a><a href="https://www.linkedin.com/in/princemchisenga/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+- 🥅 2021 Goals: Contribute more to open source projects
+- ⚡  Fun fact: I love design and photography
 
-### Connect with me:
+<!-- ### Connect with me via:
 
-<!-- <a href="mailto:jameslira36@yahoo.com" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Mail" width="26px" src="/small/envelope_48px.png"/></a> -->
-<a href="https://twitter.com/ChisengaPrince" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg"/></a>
-<a href="https://www.linkedin.com/in/princemchisenga/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/chisengajprince/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /></a>
+
+
+<a href="https://www.instagram.com/chisengajprince/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /></a> -->
 
 <br />
 
