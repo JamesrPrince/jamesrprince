@@ -10,10 +10,10 @@
 ### Connect with me:
 
 <a href="mailto:jameslira36@yahoo.com" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Mail" width="26px" src="/small/envelope_48px.png"/></a>
-<a href="https://twitter.com/ChisengaPrince" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | LinkedIn" width="26px" src="small/twitter-original.svg"/></a>
-<a href="https://www.linkedin.com/in/princemchisenga/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | LinkedIn" width="26px" src="small/linkedin-original.svg"/></a>
+<a href="https://twitter.com/ChisengaPrince" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | LinkedIn" width="26px" src="[small/twitter-original.svg](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg)"/></a>
+<a href="https://www.linkedin.com/in/princemchisenga/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | LinkedIn" width="26px" src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />"/></a>
 <a href="https://web.facebook.com/jamesrprince36" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Facebook" width="26px" src="small/facebook-plain.svg"/></a>
-<a href="https://www.instagram.com/chisengajprince/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Instagram" width="26px" src="small/Instagram.png"/></a>
+<a href="https://www.instagram.com/chisengajprince/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Instagram" width="26px" src="[small/Instagram.png](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg)"/></a>
 
 <br />
 
