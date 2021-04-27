@@ -1,14 +1,14 @@
 ### Hi there 👋, I am Prince Machiko Chisenga - aka [James Prince]
-<br>
-
+---
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChisengaPrince?label=James%20Prince&logo=Twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
 
+---
 ## I'm a Developer and Information Technology Associate!
 - 🌱 I’m currently learning everything...JavaScript
 - 👯 I’m looking to collaborate on....JavaScript & React
 - 💭 Ask me about....Anything
-- 📫 How to reach me....![Twitter](https://twitter.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
+- 📫 How to reach me....[Twitter](https://twitter.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
 - 🥅 2021 Goals: Contribute more to open source projects
 - ⚡  Fun fact: I love design and photography
 ---
