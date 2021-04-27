@@ -34,22 +34,11 @@
 <br />
 
 ### Spotify Now Playing 🎧
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](novatorem-rust-theta.vercel.app)](https://open.spotify.com/user/5xlhi2vwx5rq2obkb4wcanqff)
+<br> 
 
-  </td>
-  <td width="50%">
+[![Spotify](novatorem-jamesrprince.vercel.app)](https://open.spotify.com/user/5xlhi2vwx5rq2obkb4wcanqff)
 
 <br>
-  </td>
-  </table>
-
-<br />
-
-
 
 ### Github Stats
 [![James Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesrprince&show_icons=true)](https://github.com/jamesrprince/github-readme-stats)
