@@ -11,11 +11,6 @@
 
 ### Connect with me:
 
-![Email me](mailto:jameslira36@yahoo.com)
-![Twitter](mailto:jameslira36@yahoo.com)
-![https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg](https://www.linkedin.com/in/princemchisenga/)
-![https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg](https://www.instagram.com/chisengajprince/))
-
 <a href="mailto:jameslira36@yahoo.com" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Mail" width="26px" src="/small/envelope_48px.png"/></a>
 <a href="https://twitter.com/ChisengaPrince" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg"/></a>
 <a href="https://www.linkedin.com/in/princemchisenga/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />"/></a>
