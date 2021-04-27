@@ -1,4 +1,4 @@
-### Hi there 👋, I am Prince Machiko Chisenga - aka [James Prince]
+### Hi there 👋, I am James Prince - aka [Prince M. Chisenga]
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChisengaPrince?label=James%20Prince&logo=Twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
@@ -13,8 +13,6 @@
 - ⚡  Fun fact: I love design and photography
 ---
 
-<br />
-
 ### 🧰 Languages and Tools:
 <img align="left" alt="vscode" width="26px" src="small/vscode.png"/>
 <img align="left" alt="html5" width="26px" src="small/html5-plain-wordmark.svg"/>
@@ -28,7 +26,7 @@
 <img align="left" alt="github" width="26px" src="small/github-original.svg"/>
 <img align="left" alt="mysql" width="26px" src="small/mysql-original-wordmark.svg"/>
 
-<br />
+---
 
 <!-- ### Spotify Now Playing 🎧
 <br> 
