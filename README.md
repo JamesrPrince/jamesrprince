@@ -8,15 +8,10 @@
 - 🌱 I’m currently learning everything...JavaScript
 - 👯 I’m looking to collaborate on....JavaScript & React
 - 💭 Ask me about....Anything
-- 📫 How to reach me....<a href="https://twitter.com/ChisengaPrince" rel="noopener noreferrer" target="_blank"><img alt="jamesrprince | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg"/></a><a href="https://www.linkedin.com/in/princemchisenga/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" /></a>
+- 📫 How to reach me....![Twitter](https://twitter.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
 - 🥅 2021 Goals: Contribute more to open source projects
 - ⚡  Fun fact: I love design and photography
-
-<!-- ### Connect with me via:
-
-
-
-<a href="https://www.instagram.com/chisengajprince/" rel="noopener noreferrer" target="_blank"><img align="left" alt="jamesrprince | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /></a> -->
+---
 
 <br />
 
