@@ -34,8 +34,18 @@
 <br />
 
 ### Spotify Now Playing 🎧
-[![Spotify](https://novatorem-jamesrprince.vercel.app/api/spotify)](https://open.spotify.com/user/5xlhi2vwx5rq2obkb4wcanqff)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](novatorem-rust-theta.vercel.app)](https://open.spotify.com/user/5xlhi2vwx5rq2obkb4wcanqff)
 
+  </td>
+  <td width="50%">
+
+<br>
+  </td>
+  </table>
 
 <br />
 
