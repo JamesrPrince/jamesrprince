@@ -4,11 +4,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
 
 ---
-## I'm a Developer and an Ops Manager for FinTech
+## I'm a Developer and an Ops Manager for a FinTech Consulting Firm
 - 🌱 I’m currently learning full stack web development (MERN)
 - 👯 I’m looking to collaborate and learn from anyone willing to share their piece of the pie.
 - 📫 How to reach me....[Twitter](https://twitter.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
-- 🥅 20213 Goals: Create 14 quality personal projects.
+- 🥅 2023 Goals: Create 14 quality personal projects.
 - ⚡  Fun fact: I love web design and photography.
 ---
 
