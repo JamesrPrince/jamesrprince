@@ -4,13 +4,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
 
 ---
-## I'm a Developer and Information Technology Associate!
-- 🌱 I’m currently learning everything...JavaScript
-- 👯 I’m looking to collaborate on....JavaScript & React
-- 💭 Ask me about....Anything
+## I'm a Developer and an Ops Manager for FinTech
+- 🌱 I’m currently learning full stack web development (MERN)
+- 👯 I’m looking to collaborate and learn from anyone willing to share their piece of the pie.
 - 📫 How to reach me....[Twitter](https://twitter.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
-- 🥅 2021 Goals: Contribute more to open source projects
-- ⚡  Fun fact: I love design and photography
+- 🥅 20213 Goals: Create 14 quality personal projects.
+- ⚡  Fun fact: I love web design and photography.
 ---
 
 ### 🧰 Languages and Tools:
@@ -27,12 +26,6 @@
 <img align="left" alt="mysql" width="26px" src="small/mysql-original-wordmark.svg"/>
 
 <br>
-
-<!-- ### Spotify Now Playing 🎧 
-
-[![Spotify](novatorem-jamesrprince.vercel.app)](https://open.spotify.com/user/5xlhi2vwx5rq2obkb4wcanqff)
-
-<br> -->
 
 ### Github Stats
 [![James Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesrprince&show_icons=true)](https://github.com/jamesrprince/github-readme-stats)
