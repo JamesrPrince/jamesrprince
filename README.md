@@ -1,15 +1,16 @@
-### Hi there 👋, I am James Prince - aka [Prince M. Chisenga]
+### Hi there 👋, I am James Prince - aka [Ekko JP]
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChisengaPrince?label=James%20Prince&logo=Twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
 
 ---
-## I'm a Developer and an Ops Manager for a FinTech Consulting Firm
-- 🌱 I’m currently learning full stack web development (MERN)
+## I'm a Developer and a Commercial Analyst for a FinTech Consulting Firm
+- 🌱 I’m currently learning everything JavaScript!
 - 👯 I’m looking to collaborate and learn from anyone willing to share their piece of the pie.
 - 📫 How to reach me....[Twitter](https://twitter.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
-- 🥅 2023 Goals: Create 14 quality personal projects.
+- 🥅 Goals: Create 4 quality personal projects.
 - ⚡  Fun fact: I love web design and photography.
+- 💬 We can discuss about anything tech-related. Always open to new ideas!
 ---
 
 ### 🧰 Languages and Tools:
