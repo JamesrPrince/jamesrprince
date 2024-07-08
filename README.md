@@ -1,19 +1,19 @@
-### Hi there 👋, I am James Prince - aka [Ekko JP]
+### Hi there 👋, I am James Prince - aka [Ekko]
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChisengaPrince?label=James%20Prince&logo=Twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
 
 ---
-## I'm a Developer and a Commercial Analyst for a FinTech Consulting Firm
-- 🌱 I’m currently learning everything JavaScript!
+## I'm a Developer and a Business Analyst
+- 🌱 I’m currently learning everything JavaScript and Python!
 - 👯 I’m looking to collaborate and learn from anyone willing to share their piece of the pie.
-- 📫 How to reach me....[Twitter](https://twitter.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
+- 📫 How to reach me....[Twitter](https://x.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
 - 🥅 Goals: Create 4 quality personal projects.
-- ⚡  Fun fact: I love web design and photography.
+- ⚡  Fun fact: I love photography.
 - 💬 We can discuss about anything tech-related. Always open to new ideas!
 ---
 
-### 🧰 Languages and Tools:
+### 🧰 Tools:
 <img align="left" alt="vscode" width="26px" src="small/vscode.png"/>
 <img align="left" alt="html5" width="26px" src="small/html5-plain-wordmark.svg"/>
 <img align="left" alt="css3" width="26px" src="small/css3-plain-wordmark.svg"/>
@@ -24,7 +24,6 @@
 <img align="left" alt="sass" width="26px" src="small/sass-original.svg"/>
 <img align="left" alt="git" width="26px" src="small/git-original.svg"/>
 <img align="left" alt="github" width="26px" src="small/github-original.svg"/>
-<img align="left" alt="mysql" width="26px" src="small/mysql-original-wordmark.svg"/>
 
 <br>
 
