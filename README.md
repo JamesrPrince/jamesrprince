@@ -19,6 +19,7 @@
 <img align="left" alt="css3" width="26px" src="small/css3-plain-wordmark.svg"/>
 <img align="left" alt="javascript" width="26px" src="small/javascript-original.svg"/>
 <img align="left" alt="react" width="26px" src="small/react-original.svg"/>
+<img align="left" alt="nextjs" width="26px" src="small/nextjs.svg"/>
 <img align="left" alt="bash" width="26px" src="small/bash-original.svg"/>
 <img align="left" alt="node.js" width="26px" src="small/nodejs-original.svg"/>
 <img align="left" alt="sass" width="26px" src="small/sass-original.svg"/>
