@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChisengaPrince?label=James%20Prince&logo=Twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
 ---
-## 🙋 About Me
+## 🙋‍♂️ About Me
 
 - 📊 I'm currently a business analyst at [Top Image Africa - Zambia Office](https://www.topimage).
 - ⚙️ I specialize in data analytics and web development. 
