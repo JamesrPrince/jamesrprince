@@ -1,16 +1,24 @@
-### Hi there 👋, I am James Prince - aka [Ekko]
+👋 Hi, I’m James Prince, a data analyst from the Zambia. - aka 'Ekko'
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/ChisengaPrince?label=James%20Prince&logo=Twitter&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/jamesrprince?label=Follow%20%40James%20Prince&logo=github&style=social)
-
 ---
-## I'm a Developer and a Business Analyst
-- 🌱 I’m currently learning everything JavaScript and Python!
-- 👯 I’m looking to collaborate and learn from anyone willing to share their piece of the pie.
-- 📫 How to reach me....[Twitter](https://x.com/ChisengaPrince) or [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
-- 🥅 Goals: Create 4 quality personal projects.
-- ⚡  Fun fact: I love photography.
-- 💬 We can discuss about anything tech-related. Always open to new ideas!
+## 🙋‍♀️ About Me
+
+- 📊 I'm currently a business analyst at [Top Image Africa - Zambia Office](https://www.topimage).
+- ⚙️ I specialize in data analytics and web development. 
+- 💻 Your local go-to nerd 🤓 for technical problems and solutions.
+- Post on my [LinkedIn](https://www.linkedin.com/in/ekkojames/) page about data analytics and tech. 
+- I am working on a [blog](https://blog.ekkojames.com) focusing on web development, data analytics, and my career journey. 
+
+## 🛠 Skills
+- **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib, Scikit-learn), JavaScript (React, Node.js, Express.js, TypeScript)
+- **Tools**: Power BI | Tableau | Google Cloud Platform | Excel
+- **Other**: ETL | Rest APIs | Git | Github
+---
+## Connect with Me
+- 🐦 [Twitter](https://x.com/ChisengaPrince)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/princemchisenga/)
 ---
 
 ### 🧰 Tools:
@@ -37,17 +45,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrprince)](https://github.com/jamesrprince/github-readme-stats)
 
 <br />
-<!--
-**JamesrPrince/jamesrprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
