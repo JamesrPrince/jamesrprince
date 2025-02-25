@@ -5,7 +5,7 @@
 ---
 ## 🙋‍♂️ About Me
 
-- 📊 I'm currently a business analyst at [Top Image Africa - Zambia Office](https://www.topimage).
+- 📊 I'm currently a business analyst at [Top Image Africa - Zambia Office](https://topimage.co.ke/).
 - ⚙️ I specialize in data analytics and web development. 
 - 💻 Your local go-to nerd 🤓 for technical problems and solutions.
 - Post on my [LinkedIn](https://www.linkedin.com/in/ekkojames/) page about data analytics and tech. 
