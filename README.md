@@ -11,7 +11,7 @@
 I'm a business analyst passionate about transforming data into actionable insights and building web solutions. Currently working at [Top Image Africa - Zambia Office](https://topimage.co.ke/), where I leverage data to drive business decisions.
 
 - 📊 Specializing in data analytics and full-stack web development
-- 💡 Sharing technical insights on [LinkedIn](https://www.linkedin.com/in/ekkojames/)
+- 💡 Sharing technical insights on [LinkedIn](https://www.linkedin.com/in/prince--chisenga/)
 - 📝 Writing about tech on my [blog](https://blog.ekkojames.com)
 - 🎯 Focus areas: Data Analysis, Web Development, Business Intelligence
 
